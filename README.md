@@ -1,2 +1,2 @@
 # Hand-Tracking
-Hand Tracking using Python, OpenCv and MediaPipe.
+Hand Tracking (Palm and hand landmarks) using Python, OpenCv and MediaPipe.
